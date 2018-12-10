@@ -1,3 +1,4 @@
+==========
 How to share data with a statistician
 ===========
 
@@ -19,7 +20,7 @@ and standardized. So the work of converting the data from raw form to directly a
 before calling on a statistician. This can dramatically speed the turnaround time, since the statistician doesn't
 have to work through all the pre-processing steps first. 
 
-
+====================
 What you should deliver to the statistician
 ====================
 
@@ -159,7 +160,7 @@ to confirm that they can obtain the same output file you did.
 
 
 
-
+====================
 What you should expect from the analyst
 ====================
 
@@ -180,7 +181,7 @@ what the analyst did. It is the responsibility of both the statistician and the 
 analysis. You may not be able to perform the exact analyses without the statistician's code, but you should be able
 to explain why the statistician performed each step to a labmate/your principal investigator. 
 
-
+===================
 Contributors
 ====================
 
